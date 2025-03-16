@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-## Skills
+# About me
+| 기간 | 정보 |
+|------|------|
+| 2021년 3월 ~ 현재 | **중앙대학교 심리학과** |
+| 2022년 3월 ~ 현재 | **중앙대학교 소프트웨어학부** |
+| 2024년 상반기 | **앱개발 부트캠프** 장학생 수료 |
+| 2025년 2월 ~ 2026년 1월 | **멋쟁이사자처럼 중앙대학교 백엔드 13기 아기사자** |
+
+
+# Skills
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)]()
