@@ -1,4 +1,4 @@
-### 🍀About me
+### 🍀 About me
 | 기간 | 정보 |
 |------|------|
 | 2021년 3월 ~ 현재 | 중앙대학교 심리학과 |
@@ -8,7 +8,7 @@
 <br>
 
 
-### 💻Skills
+### 💻 Skills
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### 📖Now studying
+### 📖 Now studying
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 
