@@ -23,6 +23,11 @@
 ### 📖 Now studying
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+<br>
+<br>
+
+### 🔗 Archive
+[![Tistory](https://img.shields.io/badge/Tistory-FF6B01?style=for-the-badge&logo=tistory&logoColor=white)](https://sugapowderjj.tistory.com)
 
 
 <!--
