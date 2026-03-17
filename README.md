@@ -12,9 +12,10 @@
 ### 💻 Skills
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 <br>
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
@@ -22,13 +23,36 @@
 <br>
 
 ### 📖 Now studying
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 <br>
+
+<br>
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars" alt="ji-circle's GitHub stats" />
+  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&theme=blue-green&hide=html,css" alt="Most Used Languages" />
+</p>
 <br>
 
 ### 🔗 Archive
 [![Tistory](https://img.shields.io/badge/Tistory-FF6B01?style=for-the-badge&logo=tistory&logoColor=white)](https://sugapowderjj.tistory.com)
+
+
+<!--### 📊 GitHub Stats
+<p align="center">
+  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&custom_title=ji-circle's%20GitHub%20Stats&theme=radical" alt="ji-circle's GitHub stats" />
+  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&theme=radical&hide=html,css" alt="Most Used Languages" />
+</p>
+
+### 📊 GitHub Advanced Stats
+<p align="center">
+  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green&hide=stars&show=prs_merged,prs_merged_percentage,reviews,prs_reviewed" />
+</p>
+-->
 
 
 <!--
