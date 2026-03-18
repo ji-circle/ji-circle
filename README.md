@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long" alt="ji-circle's GitHub stats" />
-  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&theme=blue-green&hide=html,css" alt="Most Used Languages" />
+  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&bg_color=00000000&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
 </p>
 <br>
 
@@ -45,7 +45,7 @@
 <!--### 📊 GitHub Stats
 <p align="center">
   <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&custom_title=ji-circle's%20GitHub%20Stats&theme=radical" alt="ji-circle's GitHub stats" />
-  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&theme=radical&hide=html,css" alt="Most Used Languages" />
+  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&theme=dracula&hide=html,css" alt="Most Used Languages" />
 </p>
 
 ### 📊 GitHub Advanced Stats
