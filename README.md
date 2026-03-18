@@ -31,12 +31,16 @@
 <br>
 
 
+
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long" alt="ji-circle's GitHub stats" />
-  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&bg_color=00000000&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
+  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long" alt="ji-circle's GitHub stats" align="center" />
+  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&bg_color=00000000&theme=tokyonight&hide=html,css" alt="Most Used Languages" align="center" />
 </p>
-<br>
+
+
+
+
 
 ### 🔗 Archive
 [![Tistory](https://img.shields.io/badge/Tistory-FF6B01?style=for-the-badge&logo=tistory&logoColor=white)](https://sugapowderjj.tistory.com)
@@ -55,6 +59,19 @@
 <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green&hide=stars&show=prs_merged,prs_merged_percentage,reviews,prs_reviewed&number_format=long" />
 
   <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars" alt="ji-circle's GitHub stats" />
+
+
+  ### 📊 GitHub Stats
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long" alt="ji-circle's GitHub stats" height="195px" />
+    </td>
+    <td valign="top">
+      <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&hide_border=true&bg_color=00000000&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="195px" />
+    </td>
+  </tr>
+</table>
 -->
 
 
