@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long" alt="ji-circle's GitHub stats" align="center" />
+  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long&v=1" alt="ji-circle's GitHub stats" align="center" />
   <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&bg_color=00000000&theme=tokyonight&hide=html,css" alt="Most Used Languages" align="center" />
 </p>
 
