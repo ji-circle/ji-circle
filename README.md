@@ -40,17 +40,26 @@
 
 
 
-
+<br>
 
 ### 🔗 Archive
 [![Tistory](https://img.shields.io/badge/Tistory-FF6B01?style=for-the-badge&logo=tistory&logoColor=white)](https://sugapowderjj.tistory.com)
 
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ji-circle&label=&color=00000000&style=flat" width="1" height="1">
+</p>
+
+<!-- ![visitors](https://komarev.com/ghpvc/?username=ji-circle&style=plastic&label=&color=0d1117)-->
 
 <!--### 📊 GitHub Stats
 <p align="center">
   <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&custom_title=ji-circle's%20GitHub%20Stats&theme=radical" alt="ji-circle's GitHub stats" />
   <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&theme=dracula&hide=html,css" alt="Most Used Languages" />
 </p>
+
+<!--
 
 ### 📊 GitHub Advanced Stats
 <p align="center">
