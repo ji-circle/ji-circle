@@ -35,10 +35,13 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long&v=1" alt="ji-circle's GitHub stats" align="center" />
-  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&bg_color=00000000&theme=tokyonight&hide=html,css&v=1" alt="Most Used Languages" align="center" />
+  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long&v=1" alt="ji-circle's GitHub stats" align="center" width="450" height="165" />
+  <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&bg_color=00000000&theme=tokyonight&hide=html,css&v=1" height="165" alt="Most Used Languages" align="center" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ji-circle&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=150&fire=EB5454&hide_total_contributions=true&hide_longest_streak=true" height="165" align="center" />   
+  </a>
 </p>
 
+<br>
 
 
 <br>
@@ -52,14 +55,21 @@
   <img src="https://komarev.com/ghpvc/?username=ji-circle&label=&color=00000000&style=flat" width="1" height="1">
 </p>
 
-<!-- ![visitors](https://komarev.com/ghpvc/?username=ji-circle&style=plastic&label=&color=0d1117)-->
+<!-- ![visitors](https://komarev.com/ghpvc/?username=ji-circle&style=plastic&label=&color=0d1117) -->
 
 <!--### 📊 GitHub Stats
 <p align="center">
   <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&custom_title=ji-circle's%20GitHub%20Stats&theme=radical" alt="ji-circle's GitHub stats" />
   <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&theme=dracula&hide=html,css" alt="Most Used Languages" />
 </p>
+-->
 
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=ji-circle&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450&fire=EB5454&hide_longest_streak=true)](https://git.io/streak-stats)
+-->
+<!--
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ji-circle&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=450&fire=EB5454&hide_longest_streak=true" alt="GitHub Streak" /></a>
+-->
 <!--
 
 ### 📊 GitHub Advanced Stats
