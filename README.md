@@ -35,13 +35,11 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long&v=1" alt="ji-circle's GitHub stats" align="center" width="450" height="165" />
+  <img src="https://my-github-stats-gilt.vercel.app/api?username=ji-circle&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&custom_title=GitHub%20Stats&theme=tokyonight&hide=stars&number_format=long&v=1&card_width=380&card_height=160&layout=compact" alt="ji-circle's GitHub stats" align="center" />
   <img src="https://my-github-stats-gilt.vercel.app/api/top-langs/?username=ji-circle&layout=compact&bg_color=00000000&theme=tokyonight&hide=html,css&v=1" height="165" alt="Most Used Languages" align="center" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ji-circle&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=150&fire=EB5454&hide_total_contributions=true&hide_longest_streak=true" height="165" align="center" />   
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ji-circle&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=150&fire=EB5454&hide_total_contributions=true&hide_longest_streak=true&border=414868&stroke=414868" height="165" align="center" />   
   </a>
 </p>
-
-<br>
 
 
 <br>
